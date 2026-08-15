@@ -33,6 +33,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -42,4 +43,12 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
