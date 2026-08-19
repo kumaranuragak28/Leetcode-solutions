@@ -37,12 +37,14 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0004-median-of-two-sorted-arrays](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
