@@ -39,6 +39,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0016-3sum-closest](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
