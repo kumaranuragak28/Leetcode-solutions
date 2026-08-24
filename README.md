@@ -38,6 +38,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0015-3sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -47,6 +48,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0015-3sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
