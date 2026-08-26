@@ -42,6 +42,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0035-search-insert-position](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +95,16 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
