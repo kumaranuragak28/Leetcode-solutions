@@ -82,6 +82,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0066-plus-one](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0067-add-binary](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
