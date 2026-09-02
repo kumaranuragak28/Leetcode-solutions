@@ -75,6 +75,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0205-isomorphic-strings](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0125-valid-palindrome](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
