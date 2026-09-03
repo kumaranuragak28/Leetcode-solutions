@@ -60,6 +60,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0015-3sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0001-two-sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0168-excel-sheet-column-title](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
