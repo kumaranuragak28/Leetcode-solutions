@@ -78,6 +78,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0013-roman-to-integer](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0171-excel-sheet-column-number](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
