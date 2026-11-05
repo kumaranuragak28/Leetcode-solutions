@@ -54,6 +54,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0141-linked-list-cycle](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
@@ -151,4 +153,12 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/kumaranuragak28/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
